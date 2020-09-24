@@ -22,3 +22,6 @@ print("Higher than 90:")
 print(HsStu)
 print("Lower than 30")
 print(LsStu)
+
+#change R
+x<-1
